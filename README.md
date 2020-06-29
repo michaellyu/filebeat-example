@@ -1,0 +1,3 @@
+Nginx -> kafka -> logstash -> elasticsearch
+===========================================
+
